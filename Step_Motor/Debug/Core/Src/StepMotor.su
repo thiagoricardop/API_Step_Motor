@@ -1,0 +1,7 @@
+../Core/Src/StepMotor.c:21:6:stepper_set_rpm	16	static
+../Core/Src/StepMotor.c:26:6:stepper_half_drive	16	static
+../Core/Src/StepMotor.c:88:6:stepper_any_angle	48	static
+../Core/Src/StepMotor.c:116:6:stepper_90_clock	32	static
+../Core/Src/StepMotor.c:130:6:stepper_90_anticlock	32	static
+../Core/Src/StepMotor.c:143:6:stepper_clock	32	static
+../Core/Src/StepMotor.c:157:6:stepper_anticlock	32	static
